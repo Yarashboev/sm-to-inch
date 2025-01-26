@@ -1,0 +1,45 @@
+.form{
+    width: 50%;
+    margin: auto;
+    background-color: red;
+    text-align: center;
+border-radius: 20px;
+height: 60vh;
+padding:80px;
+}
+
+.h1{
+    font-family: sans-serif;
+    color: white;
+}
+
+#textBox{
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#label{
+    font-size: 30px;
+    color:white ;
+}
+
+#result{
+    color: blue;
+    font-size: 40px;
+}
+
+#button{margin-top: 10px;
+    font-size: 30px;
+    color: white;
+    background-color: green;
+    border-radius: 20px;
+}
+
+.clr{clear: both;}
+
+.radio{
+  color: red;
+  transform: scale(1.5);
+  margin-top: 10px;
+}
